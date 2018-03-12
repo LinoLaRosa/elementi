@@ -1,0 +1,14 @@
+
+h1,h2{
+  color:RGB(181,151,90);
+  background-color:RGB(0,22,65);
+  margin-left:20px;
+}
+
+#curriculum {
+  color:purple;
+  font-size:50px;
+}
+body{
+background-color: lightblue;
+font-family: georgia
