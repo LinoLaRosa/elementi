@@ -1,14 +1,16 @@
 
 h1,h2{
-  color:RGB(181,151,90);
+  color:lightblue;
   background-color:RGB(0,22,65);
   margin-left:20px;
+
 }
 
-#curriculum {
-  color:purple;
-  font-size:50px;
-}
 body{
 background-color: lightblue;
-font-family: georgia
+font: 1.2em Raleway;
+padding: 1em;
+margin: 0 auto;
+max-width: 33em;
+
+}
